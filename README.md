@@ -13,7 +13,7 @@ There are 5 lecture halls in faculty of Technology as L1, L2, L11, Exam hall & A
    Time is more precious not only for the students but also for the lecturers. But in some day, lecturers have to cancel lectures, change lecture time or postpone lectures because of some reasonable factors. In such instance those changes are inform to the students having just few minutes to start the lecture without inform early. In this situation, the student’s time is wasted. It is important for a student to resolve this issue and to avoid the difficulties in some cases due to the failure of the lecturers to cancel the lectures. 
 We hope to create a mobile app to save students and lecturers time. The app is designed to make it easier and quicker for students to change if the lecturers change their lecture time. 
 * Home Screen
-![Screenshot_20210607-162843_Lecture Time Rescheduler](https://user-images.githubusercontent.com/49139755/121305231-fc0d6100-c91a-11eb-8191-5355aeda030f.jpg | width=100)
+![Screenshot_20210607-162843_Lecture Time Rescheduler](https://user-images.githubusercontent.com/49139755/121305231-fc0d6100-c91a-11eb-8191-5355aeda030f.jpg)
 
 
 # Function
