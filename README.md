@@ -19,8 +19,30 @@ We hope to create a mobile app to save students and lecturers time. The app is d
 # Function
    01 - Regiter - Student,Lecture,Non-acdemic Staff
    
+   ![Screenshot_20210607-162853_Lecture Time Rescheduler](https://user-images.githubusercontent.com/49139755/121305506-4989ce00-c91b-11eb-9882-bf67475e0cd2.jpg)
+
+   
    02 - Login - Student,Lecture,Non-acdemic Staff
    
-   03 - View TimeTable - Lecturer View in their Own Time Table
+   ![Screenshot_20210607-162919_Lecture Time Rescheduler](https://user-images.githubusercontent.com/49139755/121305565-5b6b7100-c91b-11eb-843e-0665a41a6a41.jpg)
+
+
+   03 - View On Main Dashboard - Student View in their Own
    
-   04 - View TimeTable - Student View in their Own Time Table(Department)
+   ![Screenshot_20210607-162940_Lecture Time Rescheduler](https://user-images.githubusercontent.com/49139755/121305743-98376800-c91b-11eb-8277-fe1cd5048bef.jpg)
+   ![Screenshot_20210607-162952_Lecture Time Rescheduler](https://user-images.githubusercontent.com/49139755/121305799-a5eced80-c91b-11eb-883f-a36d24b377f8.jpg)
+
+   
+   04 - View TimeTable - Lecturer View in their Own Time Table
+   
+   ![Screenshot_20210607-163022_Lecture Time Rescheduler](https://user-images.githubusercontent.com/49139755/121305610-67efc980-c91b-11eb-9786-f51a1e8d3f41.jpg)
+
+   04 - update TimeTable - Lecturer can update Time table
+   
+   ![Screenshot_20210607-163433_Lecture Time Rescheduler](https://user-images.githubusercontent.com/49139755/121306063-07ad5780-c91c-11eb-9f66-a9808618662d.jpg)
+   
+   
+   05 - update TimeTable - Student, lecturers and non acdemic staff can view the notification
+   
+   ![Screenshot_20210607-163537_Lecture Time Rescheduler](https://user-images.githubusercontent.com/49139755/121306295-46dba880-c91c-11eb-8cf8-aa2b65ac80fb.jpg)
+
